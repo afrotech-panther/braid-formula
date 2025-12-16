@@ -28,8 +28,8 @@ Quick Usage:
     {'J': 90.33, 'Z': 29.67}
 """
 
-__version__ = "0.1.0"
-__author__ = "The Bloc Foundation"
+__version__ = "0.1.1"
+__author__ = "Afro Panther"
 __license__ = "MIT"
 
 from .core import settle, quick_settle, validate_inputs

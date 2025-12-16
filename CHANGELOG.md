@@ -28,3 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automatic rounding adjustment to ensure payouts sum to revenue
 - JSON-serializable output via `.to_dict()` method
 - Human-readable summaries via `.summary()` method
+
+## [0.1.1] - 2024-12-15
+### Added
+- Add GitHub Actions

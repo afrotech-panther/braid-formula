@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "braid-formula"
-version = "0.1.0"
+version = "0.1.1"
 description = "A settlement engine for collaborative projects. Calculate fair payouts when multiple people collaborate with shared revenue and individual expenses."
 readme = "README.md"
 license = {text = "MIT"}
