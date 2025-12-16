@@ -2,7 +2,7 @@
 
 **A settlement engine for collaborative projects.**
 
-[![PyPI version](https://badge.fury.io/py/braid-formula.svg)](https://pypi.org/project/braid-formula/)
+[![PyPI version](https://badge.fury.io/py/braid-formula.svg)](https://pypi.org/project/braid-formula/0.1.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
@@ -285,6 +285,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Created by [The Bloc Foundation](https://theblocfoundation.org).
+Created by Afro-Panther.
 
 Part of the **Braid** ecosystem for collaborative economics.

@@ -53,11 +53,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/theblocfoundation/braid-formula"
-Documentation = "https://github.com/theblocfoundation/braid-formula#readme"
-Repository = "https://github.com/theblocfoundation/braid-formula.git"
-Issues = "https://github.com/theblocfoundation/braid-formula/issues"
-Changelog = "https://github.com/theblocfoundation/braid-formula/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/afrotech-panther/braid-formula"
+Documentation = "https://github.com/afrotech-panther/braid-formula#readme"
+Repository = "https://github.com/afrotech-panther/braid-formula.git"
+Issues = "https://github.com/afrotech-panther/braid-formula/issues"
+Changelog = "https://github.com/afrotech-panther/braid-formula/blob/main/CHANGELOG.md"
 
 [project.scripts]
 braid = "braid_formula.cli:main"
